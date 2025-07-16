@@ -3,38 +3,39 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Soe%20Yeong)
 </div>
 
-<br/>
-<div>
   <!-- Body -->
-  ## 👀 About Me
-  #### :mortar_board: Bachelor of Electronic and Electrical Engineering, Sungkyunkwan University(SKKU) <br/>
-  #### :mortar_board: Bachelor of Computer Science and Engineering, Sungkyunkwan University(SKKU)
-  <br/>
-  <br/>
-
+  <div>
+    ## 👀 About Me
+    #### :mortar_board: Bachelor of Electronic and Electrical Engineering, Sungkyunkwan University(SKKU) <br/>
+    #### :mortar_board: Bachelor of Computer Science and Engineering, Sungkyunkwan University(SKKU)
+    <br/>
+    <br/>
+  </div>
+  
+<div>
   ## 🛠 Tech Stack
   ### Language
   #### Level 2
   <!-- C -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <br/>
 
   #### Level 1
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <br/>
 
   ### Framework
   <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&Color=white"/>
   <br/>
 
   ### Tools
