@@ -3,16 +3,15 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Soe%20Yeong)
 </div>
 
-  <!-- Body -->
-  <div>
-    ## 👀 About Me
-    #### :mortar_board: Bachelor of Electronic and Electrical Engineering, Sungkyunkwan University(SKKU) <br/>
-    #### :mortar_board: Bachelor of Computer Science and Engineering, Sungkyunkwan University(SKKU)
-    <br/>
-    <br/>
-  </div>
-  
 <div>
+  <!-- Body -->
+  
+  ## 👀 About Me
+  #### :mortar_board: Bachelor of Electronic and Electrical Engineering, Sungkyunkwan University(SKKU) <br/>
+  #### :mortar_board: Bachelor of Computer Science and Engineering, Sungkyunkwan University(SKKU) (Double Majored)
+  <br/>
+  <br/>
+    
   ## 🛠 Tech Stack
   ### Language
   #### Level 2
