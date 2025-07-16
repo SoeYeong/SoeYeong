@@ -1,7 +1,8 @@
 <div>
   <!-- Header -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Soe%20Yeong)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Soe%20Yeong%20)
 </div>
+
 
 <div>
   <!-- Body -->
@@ -13,12 +14,14 @@
 
   ## 🛠 Tech Stack
   ### Language
+  #### Level 2
   <!-- C -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <!-- C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <br/>
-  
+
+  #### Level 1
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
@@ -43,6 +46,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   <!--VSCode-->
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+  <br/>
   <br/>
 
   ## 📫 Contact
