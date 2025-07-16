@@ -1,6 +1,6 @@
 <div>
   <!-- Header -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Soe%20Yeong)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Soe%20Yeong)
 </div>
 
 <div>
@@ -14,9 +14,9 @@
   ## 🛠 Tech Stack
   ### Language
   <!-- C -->
-  <img src="https://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <!-- C++ -->
-  <img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <br/>
   
   <!--Python-->
@@ -36,22 +36,22 @@
 
   ### Tools
   <!--Git-->
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <!--Github-->
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <!--Notion-->
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   <!--VSCode-->
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <br/>
 
   ## 📫 Contact
   <a href="https://duddev.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-#000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:soykim99@g.skku.edu">
     <img
-      src="https://img.shields.io/badge/soykim99@g.skku.edu-#EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/soykim99@g.skku.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <br/>
   <br/>
