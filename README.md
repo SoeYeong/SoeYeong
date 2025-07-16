@@ -1,5 +1,6 @@
 <div>
   <!-- Header -->
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Soe%20Yeong)
 </div>
 
@@ -54,8 +55,7 @@
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
   </a>
   <a href="mailto:soykim99@g.skku.edu">
-    <img
-      src="https://img.shields.io/badge/soykim99@g.skku.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/soykim99@g.skku.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br/>
   <br/>
