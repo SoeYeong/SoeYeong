@@ -65,4 +65,11 @@
 
   ## 🤔 Github Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoeYeong)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  <br/>
+
+  ## 🏅 Baekjoon
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soykim99)](https://solved.ac/soykim99)
+  <br/>
+  
 </div>
