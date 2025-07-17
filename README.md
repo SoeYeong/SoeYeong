@@ -42,7 +42,7 @@
   <!--Visual Studio-->
   <img src="https://img.shields.io/badge/Visual Studio-7764FA.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <!--VSCode-->
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+  <img src="https://img.shields.io/badge/VSCode-2379F4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <!--Git-->
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <!--Github-->
