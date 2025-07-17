@@ -30,7 +30,7 @@
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   <br/>
 
   ### Framework
@@ -39,14 +39,17 @@
   <br/>
 
   ### Tools
+  <!--Visual Studio-->
+  <img src="https://img.shields.io/badge/Visual Studio-7764FA.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+  <!--VSCode-->
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <!--Git-->
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <!--Github-->
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <!--Notion-->
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-  <!--VSCode-->
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+  
   <br/>
   <br/>
 
